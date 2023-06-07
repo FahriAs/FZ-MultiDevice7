@@ -5,31 +5,31 @@
 
 ## PENTING
 
-> **Warning**: Jangan Memperjual Belikan Script Ini. 
+> **Warning**: Script Ori FZ-MULTIDEVICE7!. 
 
-<h1 align="center">ElainaBOT - MD</h1>
+<h1 align="center">FZ-MultiDevice7 - MD</h1>
 <p align="center">
-  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D" alt="ʘᴗʘ">
+  <a href="https://github.com/FahriAs"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="FZ-MultiDevice7" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/FahriAs"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6285769727113">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:yanxiao021@gmail.com">
+  <a href="mailto:fahrixz56@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281231079387) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285769727113) 
 ---------
 
 ### a little about this bot
@@ -64,8 +64,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-$ cd Elaina-MultiDevice
+$ git clone https://github.com/FahriAs/FZ-MULTIDEVICE7
+$ cd FZ-MULTIDEVICE7
 $ npm i 
 ```
 If error try using yarn instead of npm
@@ -97,14 +97,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & ELAINABOT-MD]
+[ INSTALLING NODEJS & FZ CRUEL MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+git clone https://github.com/FahriAs/FZ-MULTIDEVICE7
+cd FZ-MULTIDEVICE7
 npm install
 npm update
 ```
@@ -119,8 +119,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+git clone https://github.com/FahriAs/FZ-MULTIDEVICE7
+cd FahriAs/FZ-MULTIDEVICE7
 npm install
 npm update
 ```
